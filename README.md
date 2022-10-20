@@ -1,11 +1,9 @@
-<p align="center">
-<img src="https://media.tenor.com/p5q73vRBB5sAAAAC/obiwan-hellothere.gif">
-</p>
+<img align="center" alt="GIF" src="https://media.tenor.com/p5q73vRBB5sAAAAC/obiwan-hellothere.gif">
 
 ---
 
-<h3 align="center">Areas of Interest & Experience:</h3>
-
+<h3 align="center">Some Interests:</h3>
+<p>
 <img src="https://img.shields.io/badge/1Password-0094F5?logo=1password&logoColor=fff&style=flat-square">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white">
